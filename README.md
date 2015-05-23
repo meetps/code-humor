@@ -4,9 +4,9 @@
 
 ##Characters Covered 
 * Rahul Gandhi
+* Narendra Modi
 
 ##Upcoming 
-* Narendra Modi
 * Sadhu Yoginath
 * Smriti Irani
 * Arnub Goswami
